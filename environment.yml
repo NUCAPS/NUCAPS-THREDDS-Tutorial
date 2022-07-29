@@ -7,8 +7,6 @@ dependencies:
     - cartopy       # Geographic plotting toolkit
 #    - cython        # Transpile Python->C
     - dask          # Parallel processing library
-    - datetime      # Library to work with dates
-    - fnmatch       # Package to search lists
 #    - ipython       # IPython interpreter and tools
 #    - jupyter       # Jupyter federation architecture
     - matplotlib    # 2D plotting library
@@ -18,4 +16,4 @@ dependencies:
 #    - proj4         # geographic projections
     - urllib3        # Opens urls
     - xarray        # N-d labeled array library
-    - xml.dom       # For opening xml files
+    - xmltodict       # For opening xml files
